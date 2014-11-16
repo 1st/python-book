@@ -9,8 +9,8 @@ I work on **Mac OS X** and like this OS. But if you use **Ubuntu** - you also ca
 Table of contents
 ----------
 
- * [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
  * [Setup Python environment](Articles/SetupEnvironment.md) - instruction about how to setup Python environment on Mac OS X
+ * [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
  * [Create hight-quality code](Articles/CodeQualite.md)
 
 
