@@ -11,3 +11,9 @@ Install SublimeText
 Install SublimeText plugins
 ----------
 
+Python-related plugins:
+ * [SublimeLinter](https://github.com/SublimeLinter) - this plugin is required to install all **SublimeLinter-XXX** plugins
+ * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - pligin to lint Python code and detect code complexity
+
+Other useful plugins:
+ * git
