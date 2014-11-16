@@ -4,6 +4,14 @@ Create hight-quality code on Python
 In this chapter we will discuss about how to create better code on Python, how to check your code on errors and how to find too conplex parts of your source code.
 
 
+Code style
+----------
+
+Code in Python can be more user friendly if you will use next reccomendations:
+ * [PEP-8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
+ * [PEP-257](https://www.python.org/dev/peps/pep-0257/) - Docstring Conventions
+
+
 Check code on errors
 ----------
 
