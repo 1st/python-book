@@ -18,7 +18,7 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 [SublimeLinter](https://github.com/SublimeLinter) - this plugin is required to install all **SublimeLinter-XXX** plugins.
 
-[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to lint Python code and detect code complexity.
+[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to check Python code on errors (pep8) and detect code complexity. You need to install system-wide these packages `pip install pep8 pyflakes`
 
 Open **User Settings** *(see above)* and add (or modify) these options:
 ```python
@@ -35,6 +35,8 @@ Open **User Settings** *(see above)* and add (or modify) these options:
     }
 }
 ```
+
+[SublimeLinter-pep257](https://github.com/SublimeLinter/SublimeLinter-pep257) - check syntax of docstring. You need to install system-wide this package `pip install pep257`
 
 
 ### Other useful plugins
