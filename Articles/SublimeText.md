@@ -42,8 +42,8 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
     "user": {
         "linters": {
             "pep257": {
-                # ignore "white space before docsting" and "one-line docstring"
-                "ignore": "D200,D203"
+                # ignore "docstring for module", "white space before docsting" and "one-line docstring"
+                "ignore": "D100,D200,D203"
             }
         }
     }
