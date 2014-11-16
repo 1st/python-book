@@ -54,6 +54,6 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 ### Other useful plugins
 
-[SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint) - JavaScript coe validatio. Before install: see instructions on pligin page.
+[SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint) - JavaScript code validation. Before install: see instructions on pligin page.
 
 See also: git, mercurial.
