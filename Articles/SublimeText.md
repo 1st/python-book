@@ -15,7 +15,7 @@ Install SublimeText plugins
 
 [SublimeLinter](https://github.com/SublimeLinter) - this plugin is required to install all **SublimeLinter-XXX** plugins.
 
-[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - pligin to lint Python code and detect code complexity.
+[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to lint Python code and detect code complexity.
 
 Open **Sublime Text -> Preferences -> Package Settings -> SublimeLinter -> Settings - User** and add (or modify) these options:
 ```python
