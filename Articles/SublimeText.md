@@ -29,7 +29,7 @@ Open **User Settings** *(see above)* and add (or modify) these options:
                 # check code complexity (bu default no check: -1)
                 "max-complexity": 10,
                 # change line length from 79 to 120 symbols
-                "max-line-length": 120,
+                "max-line-length": 110,
             }
         }
     }
