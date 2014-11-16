@@ -12,6 +12,8 @@ Table of contents
  * [Setup Python environment](Articles/SetupEnvironment.md) - instruction about how to setup Python environment on Mac OS X
  * [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
  * [Create hight-quality code](Articles/CodeQualite.md)
+ * [Web frameworks](Articles/WebFrameworks.md) - short overview of Python web frameworks
+ * [Django framework](Articles/Django.md) - most popular Python web framework
 
 
 Contribution
