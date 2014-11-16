@@ -19,6 +19,7 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 [SublimeLinter](https://github.com/SublimeLinter) - this plugin is required to install all **SublimeLinter-XXX** plugins.
 
 [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to check Python code on errors (pyflakes, pep8) and detect code complexity. Before install: `pip install flake8`. After install: open **User Settings** *(see above)* and add these options:
+
 ```python
 {
     "user": {
@@ -48,6 +49,8 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
     }
 }
 ```
+
+[SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - autocomplete Python code on dot. After install: make soma changes to **User Settings** as described on plugin page.
 
 ### Other useful plugins
 
