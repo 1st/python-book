@@ -18,7 +18,7 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 [SublimeLinter](https://github.com/SublimeLinter) - this plugin is required to install all **SublimeLinter-XXX** plugins.
 
-[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to check Python code on errors (pyflakes, pep8) and detect code complexity. Before install: `pip install flake8`. After install: open **User Settings** *(see above)* and add (or modify) these options:
+[SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - plugin to check Python code on errors (pyflakes, pep8) and detect code complexity. Before install: `pip install flake8`. After install: open **User Settings** *(see above)* and add these options:
 ```python
 {
     "user": {
@@ -34,8 +34,20 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 }
 ```
 
-[SublimeLinter-pep257](https://github.com/SublimeLinter/SublimeLinter-pep257) - check syntax of docstring. Before install: `pip install pep257`
+[SublimeLinter-pep257](https://github.com/SublimeLinter/SublimeLinter-pep257) - check syntax of docstring. Before install: `pip install pep257`. After install: open **User Settings** *(see above)* and add these options:
 
+```python
+{
+    "user": {
+        "linters": {
+            "pep257": {
+                # ignore "white space before docsting" and "one-line docstring"
+                "ignore": "D200,D203"
+            }
+        }
+    }
+}
+```
 
 ### Other useful plugins
 
