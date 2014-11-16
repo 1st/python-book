@@ -4,7 +4,7 @@ Create hight-quality code on Python
 In this chapter we will discuss about how to create better code on Python, how to check your code on errors and how to find too conplex parts of your source code.
 
 
-Check code errors
+Check code on errors
 ----------
 
 Linter is a program that check your source code and show found errors and warnings. Linters exists for different languages like JavaScript and CoffeScript, HTML and CSS, SASS and LESS, as well as for Python.
