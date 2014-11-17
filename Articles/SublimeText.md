@@ -62,4 +62,8 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 [SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint) - CSS code validator. Before install: see instructions on plugin page.
 
+### Some extra plugins
+
+[SublimeLinter-coffee](https://github.com/SublimeLinter/SublimeLinter-coffee) - CoffeeScript code validator. Before install: see instructions on plugin page.
+
 See also: git, mercurial.
