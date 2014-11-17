@@ -56,4 +56,6 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint) - JavaScript code validation. Before install: see instructions on pligin page.
 
+[SublimeLinter-html-tidy](https://github.com/SublimeLinter/SublimeLinter-html-tidy) - check yout HTML on errors. Before install: check if your have installed `tidy` on your computer.
+
 See also: git, mercurial.
