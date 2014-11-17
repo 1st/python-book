@@ -64,6 +64,8 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 ### Some extra plugins
 
+[SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json) - JSON code validator.
+
 [SublimeLinter-coffee](https://github.com/SublimeLinter/SublimeLinter-coffee) - CoffeeScript code validator. Before install: see instructions on plugin page.
 
 See also: git, mercurial.
