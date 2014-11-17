@@ -7,6 +7,8 @@ SublimeText is one of the best source code editors. It's easy to use, fast and e
 Install SublimeText
 ----------
 
+Download latest verson of [SublimeText](http://www.sublimetext.com/3) and follow instructions for your OS. On Mac OS X you need to unzip file from archive and move it to `/home/<user>/Applications` directory.
+
 
 Install SublimeText plugins
 ----------
