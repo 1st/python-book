@@ -62,10 +62,10 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 
 [SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint) - CSS code validator. Before install: see instructions on plugin page.
 
+[Sublime-Text-Git](https://github.com/kemayo/sublime-text-git) - allow to pull, add file, commit and push changes in command palette.
+
 ### Some extra plugins
 
 [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json) - JSON code validator.
 
 [SublimeLinter-coffeelint](https://github.com/SublimeLinter/SublimeLinter-coffeelint) - CoffeeScript code validator. Before install: see instructions on plugin page.
-
-See also: git, mercurial.
