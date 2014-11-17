@@ -13,6 +13,8 @@ Download latest verson of [SublimeText](http://www.sublimetext.com/3) and follow
 Install SublimeText plugins
 ----------
 
+To use plugins in SublimeText you need to add extension that allows to install and update plugins in command palette. Install [Sublime Package Control](https://sublime.wbond.net/installation) and start install plugins with key combination **Command + Shift + P** and select **Install Package** in dropdown.
+
 Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -> Package Settings -> SublimeLinter -> Settings - User**. It opens file in new tab where you can add or modify options. Save this file and changes will be made immediately.
 
 
