@@ -71,3 +71,8 @@ Below we modify **User Settings**. To do so open **Sublime Text -> Preferences -
 [SublimeLinter-json](https://github.com/SublimeLinter/SublimeLinter-json) - JSON code validator.
 
 [SublimeLinter-coffeelint](https://github.com/SublimeLinter/SublimeLinter-coffeelint) - CoffeeScript code validator. Before install: see instructions on plugin page.
+
+See also
+----------
+
+[Anaconda Python IDE](http://damnwidget.github.io/anaconda/IDE/) - all-in-one plugin for Sublime 3. I prefer to use multiple small plugins that I need intead of this one huge plugin.
