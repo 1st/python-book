@@ -25,4 +25,4 @@ See also
 Contribution
 ----------
 
-You can help me extend this book with new articles or tell me about found typos. To do it you can open new **Issue** or create **Pull request** with your changes.
+You can help me extend this book with new articles or tell me about found typos. To do it you can open new [Issue](https://github.com/1st/python-book/issues) or create [Pull request](https://github.com/1st/python-book/pulls) with your changes.
