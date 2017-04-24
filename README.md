@@ -1,19 +1,20 @@
 Python for web development
 ==========
 
-Here I will publish usefull articles about Python and web development. When I learn something new - I try to create new article or update existing article. The main goal - to help other Python developers to learn some tricks and deeper understand this amazing programming language.
+Here I will publish usefull articles **about Python** and web development. I will try to keep this book up-to-date. The main goal of this book is to help Python developers to learn some tricks and deeper understand this powerful and beautiful programming language.
 
-I work on **Mac OS X** and like this OS. But if you use **Ubuntu** - you also can be happy with Python. Who uses **Windows** - I am sorry, but you need to change your OS to something better for development.
+I started to work on Windows more than 10 years ago, then switched to **Ubuntu** to avoid unicode and other problems. After some time I decided to switch to MacOS and use only it for development. I strongly recommend you to use either **Ubuntu** or **MacOS** for web development to make your development life much easier.
 
 
 Table of contents
 ----------
 
- * [Setup Python environment](Articles/SetupEnvironment.md) - instruction about how to setup Python environment on Mac OS X
- * [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
+ * *TODO:* [Setup Python environment](Articles/SetupEnvironment.md) - instruction about how to setup Python environment on Mac OS X
+ * *TODO:* Code editors for Python
+   * [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
  * [Create hight-quality code](Articles/CodeQuality.md) - check your code on errors and detect too complex parts of code
- * [Web frameworks](Articles/WebFrameworks.md) - short overview of Python web frameworks
- * [Django framework](Articles/Django.md) - most popular Python web framework
+ * *TODO:* [Web frameworks](Articles/WebFrameworks.md) - short overview of Python web frameworks
+   * [Django framework](Articles/Django.md) - most popular Python web framework
 
 
 See also
