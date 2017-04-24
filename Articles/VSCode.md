@@ -27,3 +27,7 @@ pip install pylint
 
 Open Extensions sidebar and install next:
 - `Python` - extension for improved support of Python code
+
+## See also
+
+- [Python VS Code Docs](https://donjayamanne.github.io/pythonVSCodeDocs/docs/) - useful information about Visual Studio Code
