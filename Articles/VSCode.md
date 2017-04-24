@@ -40,6 +40,7 @@ Open `Code - Preferences - Settings` and edit `User Settings` to add these optio
 }
 ```
 
+**To validate** that it works - create new python file and save it. It should highlight errors and warnings in the code. If no - then path to the `python` interpreter is wrong.
 
 ## See also
 
