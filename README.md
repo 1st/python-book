@@ -10,11 +10,11 @@ Table of contents
 ----------
 
 - [ ] *Setup Python environment* - instruction about how to setup Python environment on Mac OS X
-- [ ] *Code editors for Python*
-  - [x] [Sublime Text](Articles/SublimeText.md) - editor for source code. One of the best source code editors
-  - [x] [Visual Studio Code](VSCode.md) - improved code editor with support of Debugging and good autocompletion
+- [x] *Code editors for Python*
+  - [x] [Sublime Text](Articles/SublimeText.md) - editor for source code. One of the best source code editor. Runs fast and configurable
+  - [x] [Visual Studio Code](VSCode.md) - improved code editor with support of Debugging and good autocompletion. Works fast
 - [x] [Create hight-quality code](Articles/CodeQuality.md) - check your code on errors and detect too complex parts of code
-- [ ] *Web frameworks* - short overview of Python web frameworks
+- [ ] *Web frameworks*
   - [x] [Django framework](Articles/Django.md) - most popular Python web framework
 
 
