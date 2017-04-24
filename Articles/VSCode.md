@@ -28,6 +28,19 @@ pip install pylint
 Open Extensions sidebar and install next:
 - `Python` - extension for improved support of Python code
 
+### Configuration for VS Code
+
+Open `Code - Preferences - Settings` and edit `User Settings` to add these options:
+
+```json
+{
+    "python.venvPath": "~/.virtualenvs",
+    "python.pythonPath": "/Users/username/.virtualenvs/workspace/bin/python",
+    "python.autoComplete.addBrackets": true
+}
+```
+
+
 ## See also
 
 - [Python VS Code Docs](https://donjayamanne.github.io/pythonVSCodeDocs/docs/) - useful information about Visual Studio Code
