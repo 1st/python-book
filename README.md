@@ -9,11 +9,12 @@ I started to work on Windows more than 10 years ago, then switched to **Ubuntu**
 Table of contents
 ----------
 
-- [ ] [Setup Python environment](Articles/SetupEnvironment.md) - instruction about how to setup Python environment on Mac OS X
-- [ ] Code editors for Python
+- [ ] *Setup Python environment* - instruction about how to setup Python environment on Mac OS X
+- [ ] *Code editors for Python*
   - [x] [SublimeText](Articles/SublimeText.md) - editor for source code. One of the best source code editors
+  - [x] [Visual Studio Code](VSCode.md) - improved code editor with support of Debugging and good autocompletion
 - [x] [Create hight-quality code](Articles/CodeQuality.md) - check your code on errors and detect too complex parts of code
-- [ ] [Web frameworks](Articles/WebFrameworks.md) - short overview of Python web frameworks
+- [ ] *Web frameworks* - short overview of Python web frameworks
   - [x] [Django framework](Articles/Django.md) - most popular Python web framework
 
 
